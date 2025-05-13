@@ -1,0 +1,11 @@
+{
+  "input_file": "data/action/txt/unlabel.txt",
+  "output_file": "data/reaction/txt/unlabel.txt",
+  "model_name_or_path": "models/action/epoch5",
+  "labels": "configs/prod_labels.txt",
+  "max_seq_length": 512,
+  "batch_size": 256,
+  "use_crf": true,
+  "use_fast": true,
+  "overwrite_cache": true
+}
