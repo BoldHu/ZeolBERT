@@ -23,7 +23,7 @@ Overall, variations of ZeolBERT in our pipeline exhibit average F1-score improve
 
 ## Pipeline Architecture
 
-![Pipeline Overview](./assert/all_information.png)
+![Pipeline Overview](./assets/all_information.png)
 
 ## Installation
 
