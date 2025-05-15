@@ -1,4 +1,4 @@
-# ZeolBERT: Automated Extraction Pipeline for Zeolite Synthesis Procedures
+# ZeolBERT: A Domain-Adapted Language Model for Automated Extraction of Zeolite Synthesis Procedures
 
 **Paper Title:**
 **Automated Extraction Pipeline of Zeolite Synthesis Procedures from Scientific Literature Using ZeolBERT, a Domain-Adapted Pre-trained Language Model**
