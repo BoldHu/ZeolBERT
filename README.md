@@ -28,8 +28,8 @@ Overall, variations of ZeolBERT in our pipeline exhibit average F1-score improve
 ## Extraction Result
 ![Extraction Result of Proposed Method](./assets/extraction%20case3.png)
 
-## Supplement Materials
-The detailed of annotation process of this work is in  [Supplement Materials](supplement.pdf). 
+<!-- ## Supplement Materials
+The detailed of annotation process of this work is in  [Supplement Materials](supplement.pdf).  -->
 
 ## Installation
 
