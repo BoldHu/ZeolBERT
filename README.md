@@ -25,6 +25,10 @@ Overall, variations of ZeolBERT in our pipeline exhibit average F1-score improve
 
 ![Pipeline Overview](./assets/all_information.png)
 
+## Supplementary Material
+
+The detailed introduction for annotation process is in ![Supplemetary Material](./supplement.pdf)
+
 ## Installation
 
 ### Requirements
