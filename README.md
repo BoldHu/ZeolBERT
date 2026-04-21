@@ -49,9 +49,9 @@ pip install torch transformers tqdm numpy seqeval
 
 ### Datasets
 
-Available on Kaggle:
+Available Data:
 
-* [Original Dataset for ZeolBERT](https://www.kaggle.com/datasets/boldhu/original-dataset-for-zeolbert)
+* The `raw_corpus` dataset is under the `./data/` directory.
 
 ### Pre-trained Models
 
